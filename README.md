@@ -1,0 +1,1 @@
+# quickinfo_vue_spa_laravel_backend
