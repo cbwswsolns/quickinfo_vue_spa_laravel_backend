@@ -8,4 +8,4 @@ It makes use of:
 
 (b) Laravel Fortify and Laravel Sacntum for back end SPA authentication
 
-(c) Spatie Permissions for back end authorization
+(c) Spatie Permissions for back end authorization (work in progress)
