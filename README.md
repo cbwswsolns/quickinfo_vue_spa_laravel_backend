@@ -6,7 +6,7 @@ It makes use of:
 
 (a) Laravel Scout and Elastic Search packages for search engine features
 
-(b) Laravel Fortify and Laravel Sacntum for back end SPA authentication
+(b) Laravel Fortify and Laravel Sanctum for back end SPA authentication
 
 (c) Spatie Permissions for back end authorization
 
